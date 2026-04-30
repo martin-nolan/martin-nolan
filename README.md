@@ -1,92 +1,83 @@
 <!-- Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Gen%20AI%20Engineer-Sky%20UK-blue?style=for-the-badge" alt="Gen AI Engineer @ Sky UK" />
-  <img src="https://img.shields.io/badge/Full--Stack-Next.js%20·%20Python%20·%20LLM%20Integration-29a085?style=for-the-badge" alt="Full-Stack: Next.js · Python · LLM Integration" />
-  <img src="https://img.shields.io/badge/AI%20Systems-Orchestration%20·%20Agents%20·%20LLMs-29a085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud%20Native-GCP%20·%20FastAPI%20·%20OpenAI-9b59b6?style=for-the-badge" alt="Cloud Native: GCP · FastAPI · OpenAI" />
+  <img src="https://img.shields.io/badge/GenAI%20Engineer-Sky%20UK-blue?style=for-the-badge" alt="GenAI Engineer @ Sky UK" />
+  <img src="https://img.shields.io/badge/Product--Minded-Usability%20·%20Workflows%20·%20Delivery-29a085?style=for-the-badge" alt="Product-Minded: Usability · Workflows · Delivery" />
+  <img src="https://img.shields.io/badge/AI%20Systems-Orchestration%20·%20Evaluation%20·%20LLMs-29a085?style=for-the-badge" alt="AI Systems: Orchestration · Evaluation · LLMs" />
+  <img src="https://img.shields.io/badge/Full--Stack-Next.js%20·%20Python%20·%20FastAPI-9b59b6?style=for-the-badge" alt="Full-Stack: Next.js · Python · FastAPI" />
 </p>
 
 # 👋 Hi, I'm Martin Nolan
 
-**Gen AI Software Engineer @ Sky UK**
-
-**[Personal Website](https://martinnolan-dev.netlify.app/)**
+**Product-minded GenAI Engineer @ Sky UK**
 
 ---
 
 ## 💡 Personal Brand
 
-**Practical AI, Built for Production**
+**Practical AI, Built for Real Workflows**
 
-Gen AI Software Engineer specialising in building **production-ready AI systems**, orchestration platforms, and agent-based workflows.
-Focused on turning AI from one-off POCs into **reliable, scalable, and decision-useful systems**.
+I build usable, production-ready AI systems with a focus on product thinking, orchestration, evaluation, and delivery.
+My work sits across full-stack engineering, AI workflows, and the standards that help teams ship more reliably.
 
 ---
 
 ## ⚡ How I Work
 
-* Build across the full lifecycle: **problem shaping → system design → build → evaluation → production**
-* Focus on **repeatability, reliability, and observability**, not just model outputs
-* Design systems with **clear state management, failure handling, and ownership boundaries**
-* Balance **speed vs robustness**, shipping quickly without overengineering
+- Build across the full lifecycle: **problem shaping → workflow design → build → evaluation → production**
+- Focus on **usability, reliability, and observability**, not just model outputs
+- Design systems with **clear ownership, structured workflows, and maintainable delivery paths**
+- Balance **speed and robustness**, aiming to ship practical systems people can actually use
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-* **Frontend:** Next.js, React, TypeScript, TailwindCSS
-* **Backend:** Python (FastAPI), Node.js, SQLAlchemy
-* **Cloud:** GCP (Cloud Run, logging, observability)
-* **AI Systems:** LLMs, Agents, Orchestration, RAG, Evaluation Pipelines
-* **Data:** Embeddings, Vector Search, Structured Outputs
-* **Auth:** Azure AD SSO
-* **Testing:** Jest, Playwright
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI, Node.js, SQLAlchemy, PostgreSQL
+- **Cloud:** GCP, Azure, AWS
+- **AI Systems:** LLMs, orchestration, evaluation pipelines, structured outputs, agent-assisted workflows
+- **Delivery & Quality:** Jest, Playwright, observability, governed standards, reusable templates
 
 ---
 
 ## 🚀 Selected Work & Impact
 
-* **AI Orchestration Systems**
-  Designed backend-owned orchestration patterns for AI workflows, enabling:
+### AI Engineering Standards & Reusability
+Designed and implemented an **agent-assisted engineering approach** for more consistent AI delivery, including:
 
-  * Stateful execution, retries, batching, and partial failure handling
-  * Repeatable and auditable evaluation without live customer data
-  * Reduction of new AI workflow setup time from **weeks to hours**
+- SOPs and requirement-shaping workflows
+- reusable templates and governed repo baselines
+- repo-local harness patterns using AGENTS.md, skills, docs, validation, and self-heal loops
 
----
+### AI-Powered Research & Insight Systems
+Built full-stack AI systems for research and insight generation, including:
 
-* **AI-Powered Research & Insight Systems**
-  Built full-stack applications for automated research and insight generation:
+- conversational studies and digital-twin style interactions
+- automated insight generation and structured outputs
+- major cost reduction in high-effort manual testing workflows
 
-  * Conversational workflows and structured output pipelines
-  * Replaced manual, high-cost processes with scalable AI systems
-  * Delivered **significant cost savings and improved operational efficiency**
+### Orchestration & Evaluation Platforms
+Built reusable orchestration systems for synthetic testing and evaluation, enabling:
 
----
+- configurable AI agents, scenarios, and behaviours
+- structured evaluation of third-party conversational AI systems
+- reduction of setup time from **weeks to hours**
 
-* **AI Engineering Standards & Reusability**
-  Defined and implemented standards for scalable AI delivery:
+### Product, UX & Onboarding Improvements
+Improved how people interact with AI tools through:
 
-  * SOPs, template repositories, and structured requirement flows
-  * Instruction layering and validation gates for predictable outputs
-  * Reduced ambiguity and improved consistency across projects
-
----
-
-* **AI Adoption & Cross-Team Influence**
-
-  * Presented AI systems and concepts to **large internal audiences (300+)**
-  * Supported engineers and architects adopting AI patterns across teams
-  * Translated complex systems into clear, user-focused workflows
+- clearer onboarding and support flows
+- improved navigation, terminology, and workflow clarity
+- product decisions shaped around real user understanding and adoption
 
 ---
 
 ## 🧠 Areas of Focus
 
-* AI system design and orchestration
-* Agent-based architectures and workflows
-* Evaluation, observability, and reliability
-* Turning AI into usable, production-ready systems
+- Product-minded AI engineering
+- Usable, production-ready AI systems
+- Orchestration, evaluation, and workflow design
+- AI delivery standards, harnesses, and reusable engineering patterns
 
 ---
 
