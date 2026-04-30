@@ -8,13 +8,9 @@
 
 # 👋 Hi, I'm Martin Nolan
 
-**Product-minded GenAI Engineer @ Sky UK**
-
----
-
 ## 💡 Personal Brand
 
-**Practical AI, Built for Real Workflows**
+**Product-minded GenAI Engineer @ Sky UK**
 
 I build usable, production-ready AI systems with a focus on product thinking, orchestration, evaluation, and delivery.
 My work sits across full-stack engineering, AI workflows, and the standards that help teams ship more reliably.
