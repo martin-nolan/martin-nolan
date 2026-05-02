@@ -14,7 +14,9 @@
 
 I build production-ready AI systems across research, customer service, marketing, and internal operations. My work spans full-stack engineering, orchestration, evaluation, cloud deployment, and the repo standards that help teams ship AI systems more reliably.
 
-[Website](https://martinnolan-dev.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/016fc29f-1faf-46ea-999b-bc260a27083f/deploy-status)](https://app.netlify.com/projects/martinnolan-dev/deploys)
+<p align="center">
+  <a href="https://martinnolan-dev.netlify.app/">🌐 Visit Website</a>
+</p>
 
 ---
 
