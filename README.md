@@ -1,14 +1,14 @@
 <!-- Profile Badges -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GenAI%20Software%20Engineer-Sky%20UK-blue?style=for-the-badge" alt="GenAI Software Engineer @ Sky UK" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-Sky%20UK-blue?style=for-the-badge" alt="GenAI Software Engineer @ Sky UK" />
   <img src="https://img.shields.io/badge/Product--Minded-Usability%20%7C%20Delivery-29a085?style=for-the-badge" alt="Product-Minded: Usability | Delivery" />
   <img src="https://img.shields.io/badge/AI%20Systems-Evaluation%20%7C%20Guardrails%20%7C%20Workflows-6f42c1?style=for-the-badge" alt="AI Systems: Evaluation | Guardrails | Workflows" />
 </p>
 
 # Hi, I'm Martin Nolan
 
-**Product-minded AI Software Engineer focused on usable, production-ready AI systems.**
+**Product-minded AI Engineer focused on usable, production-ready AI systems.**
 
 I work across full-stack engineering, cloud deployment, evaluation, guardrails, workflow design, and reusable delivery patterns. I’m interested in making AI-enabled systems reliable, understandable, and useful in real business workflows - with a focus on bounded, verifiable, human-owned delivery.
 
