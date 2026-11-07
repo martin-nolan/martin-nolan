@@ -1,18 +1,10 @@
-<!-- Profile Badges -->
+# Martin Nolan
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Sky%20UK-blue?style=for-the-badge" alt="GenAI Software Engineer @ Sky UK" />
-  <img src="https://img.shields.io/badge/Product--Minded-Usability%20%7C%20Delivery-29a085?style=for-the-badge" alt="Product-Minded: Usability | Delivery" />
-  <img src="https://img.shields.io/badge/AI%20Systems-Evaluation%20%7C%20Guardrails%20%7C%20Workflows-6f42c1?style=for-the-badge" alt="AI Systems: Evaluation | Guardrails | Workflows" />
-</p>
+**Product-minded AI Engineer at Sky.** I build AI products end to end, and the setup my team uses to build them: repository templates, a shared harness for coding agents, and the checks around both.
 
-# Hi, I'm Martin Nolan
+Most of what I do comes back to two things: product (who it's for, and how it lands with the people who have to back it) and developer experience (how the team builds it).
 
-**Product-minded AI Engineer focused on usable, production-ready AI systems.**
-
-I work across full-stack engineering, cloud deployment, evaluation, guardrails, workflow design, and reusable delivery patterns. I’m interested in making AI-enabled systems reliable, understandable, and useful in real business workflows - with a focus on bounded, verifiable, human-owned delivery.
-
-Recent areas of focus include production GenAI systems, agent-assisted engineering patterns, repo-local harnesses, low-code Copilot agent delivery, evaluation workflows, and product-minded full-stack engineering.
+The majority of my work lives in private repositories at Sky, so there's not much to see here.
 
 <p align="center">
   <a href="https://martinnolan-dev.netlify.app/">
@@ -31,15 +23,3 @@ Recent areas of focus include production GenAI systems, agent-assisted engineeri
     <img src="https://img.shields.io/badge/Email-martinnolan__1%40hotmail.co.uk-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
-
----
-
-## Skills & Technologies
-
-* **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-* **Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL
-* **Cloud & Identity:** GCP Cloud Run, Secret Manager, Cloud Storage, Azure Entra ID, AWS
-* **AI Systems:** LLMs, RAG / semantic retrieval, orchestration, evaluation, structured outputs, guardrails
-* **Delivery & Quality:** Jest, Playwright, review-readiness, reusable repo baselines, validation checks
-
----
